@@ -9,7 +9,7 @@ const SingleCard = ({ card, handleChoice, flipped, disabled }) => {
             if (!disabled) handleChoice(card);
           }}
           className="back"
-          src="/img/cover.png"
+          src="/img/297c85583cdfd6e87da5c7885584d88c.jpg"
           alt="back"
         />
       </div>
